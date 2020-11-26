@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=game
+comment1.params=
+comment1.target=game()
+comment2.params=
+comment2.target=void\ newGame()
+comment3.params=
+comment3.target=void\ initMap()
+comment4.params=mumap
+comment4.target=void\ printmap(int[][])
+comment5.params=
+comment5.target=int[][]\ getMap()
+comment6.params=map
+comment6.target=int[][]\ shuffleMap(int[][])
+numComments=7

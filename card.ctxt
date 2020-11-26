@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=card()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=myBoard
+comment3.target=card(board)
+comment4.params=baris\ kolom
+comment4.target=void\ nextTurn(int,\ int)
+comment5.params=baris\ kolom\ currentCond\ matchCond
+comment5.target=void\ setCurrentCard(int,\ int,\ boolean,\ boolean)
+comment6.params=baris\ kolom
+comment6.target=boolean\ cekMatch(int,\ int)
+comment7.params=baris\ kolom
+comment7.target=void\ updateMap(int,\ int)
+comment8.params=baris\ kolom
+comment8.target=boolean\ cekCurrentCard(int,\ int)
+comment9.params=
+comment9.target=int[][]\ getMap()
+numComments=10

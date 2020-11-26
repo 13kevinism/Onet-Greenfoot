@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=pathfinder
+comment1.params=
+comment1.target=pathfinder()
+comment2.params=myBoard
+comment2.target=pathfinder(board)
+comment3.params=gameMap\ startX\ startY\ goalX\ goalY
+comment3.target=boolean\ findPath(int[][],\ int,\ int,\ int,\ int)
+comment4.params=gameMap\ startX\ startY\ goalX\ goalY
+comment4.target=java.util.ArrayList\ BFS(int[][],\ int,\ int,\ int,\ int)
+comment5.params=myParrent\ nextB\ nextK
+comment5.target=boolean\ cekParrent(java.util.ArrayList,\ int,\ int)
+comment6.params=myParrent\ ancestors
+comment6.target=void\ addParrent(java.util.ArrayList,\ java.util.ArrayList)
+comment7.params=currentX\ currentY\ goalX\ goalY
+comment7.target=boolean\ cekGoal(int,\ int,\ int,\ int)
+numComments=8

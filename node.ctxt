@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=node
+comment1.params=isGoal\ lastTurn\ turnCounter\ mapB\ mapK
+comment1.target=node(boolean,\ int,\ int,\ int,\ int)
+numComments=2
